@@ -13,3 +13,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için,lütfen önce neyi d
 istediğinizi tartışmak için bir konu açınız.
 ## License
 [MIT](https://www.youtube.com/watch?v=17Jk8hZWt_k)
+## Doğa
+![Doğa görseli](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/f8/59/1b/doga-kutlu-apart.jpg?w=1200&h=-1&s=1)
